@@ -12,6 +12,10 @@ El objetivo principal de este diseño es estructurar una base de datos NoSQL uti
 
 ## Análisis de Entidades y Propuesta de Modelo de Datos
 
+### Diagrama ER
+
+![Diagrama Entidad Relación](DiagramaER.jpg)
+
 ### Atracciones
 
 **Nombre de la Colección:** Atracciones.
